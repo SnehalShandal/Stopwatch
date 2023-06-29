@@ -100,4 +100,4 @@ def Resume(label):
     reset.pack(side="left")
     pause.pack(side="left")
     resume.pack(side="left")
-root.mainloop()
+    root.mainloop()
